@@ -7,3 +7,6 @@ set splitright
 
 " Show extra whitespace
 set list listchars=tab:»·,trail:·,nbsp:·
+
+" Always show status line
+set laststatus=2
